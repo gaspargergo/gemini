@@ -1,0 +1,8 @@
+#Instructions
+
+Recipes, techniques, etc:
+
+=>greenbag.gmi Green-bag
+=>napkinrose.gmi Napkin rose
+=>nook.gmi Nook ebook reader
+=>pop_os.gmi Pop OS

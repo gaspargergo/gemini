@@ -1,0 +1,19 @@
+#Cleaning the computer
+
+I did a lot of tinkering with my computer in these last couple of days, mostly cosmetic stuff. I always try to keep my setup clean (in look and feel, more about this later), so I tried to stick to that, but in a more elegant, less ascetic fashion. 
+
+I use BSPWM without any bars, just the few windows I have open, with a small script that tells me the time, battery percentage, and the wi-fi status. I tried out xcompmgr on a whim, and was delighted by the fade animation. I could not get the shadow to work on my terminal window for some reason, so I switched to picom, which works wonderfully. This is somewhat of a luxury, since it is purely eye-candy, bit it makes using the machine more fun. Another change which makes the setup more friendly is my new shell. I switched to fish, I really like to automatic syntax highlighting and that it is more colorful in general. I went back to Hyper as my theme for Alacritty, and now the black windows look great against the painting of a winter scene I use for a background. 
+
+A change that I was hesitant to commit to before is using a fork of BSPWM, one that has rounded edges. This was mostly a psychological barrier, as I am hesitant to install stuff from outside pacman, but I was in the "changing" mood, so I did it. It is truly astounding that I could replace my bspwm version with this rounded-corner one in(!!!) bspwm, without it even flinching. Theming rofi to match this new look was the icing on the cake. 
+
+As I mentioned before, I like to keep my setup feeling clean as well as looking clean. This is also part of the reason why I don't want to install thinga outaide of pacman. But now I can't go back, I just adore how it looks! Even though I use a small corner radius, it makes a lot of difference. 
+
+A feeling of cleanliness of the setup also involves me trying to eliminate any packages that are unnecessary. Because of this I was reluctant for a long while to keep Inkscape or Sigil installed, since I rarely use them. But they are very handy sometimes,  so I had to get over that (although I still might uninstall Sigil, since I have no real use for it, I can do some basic epub editing in Libreoffice...) I try to keep the number of packages I have under 600. At the moment I have about 570. I also try to minimize the number of programs I have installed ( I know, these two correlate, but it's not one to one). One such example of tidying up was me deleting epr and qpdfview, since I could replace them both with Zathura. I first tried it out for its minimalist looks, but came to love it for its speed and the vi controls. I also deleted Pulseaudio! I only installed it because when I set up the system, I was unable to get alsa to work, but since then, it was bugging me, as it was superflous software. So I deleted it, tried alsa, and it worked! My mistake was probably not adding my account to the audio group... Not very proud of that one. 
+
+These were my maniacal acts of cleaning. Now that I am rereading this, it might seem silly that these things matter so much to me. But this is how I feel, and I think that feelings towards things, ecpecially the ones we use often, are quite important. I feel a sense of satisfaction when I see that I eliminated two packages without sacrificing usability, and I'm okay with that. 
+
+Now I want to do something similar for my phone, but that will warrant its own entry. I thi k trying to directly limit usage is not a good approach, rather I try to look at how I use the phone, and try to mold that into something I still enjoy, but feel better about. This journal entry is one of those things.
+
+Have a good holiday, and if you celebrate Christmas, merry Christmas!
+
+2021.12.26

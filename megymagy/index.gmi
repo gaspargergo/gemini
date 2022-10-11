@@ -1,0 +1,37 @@
+#Megymagy's site
+
+```an ASCII-art house
+     _      §
+    / \    §
+   /   \  §
+  /  O  \π
+ /_______\
+/ |  {} | \
+  | ()  |
+  |   ()|
+  |     |
+  |__[]_|
+```
+
+A small place where I collect things.
+
+##Contact
+mastodon: megymagy@mastodon.green
+
+°•°•°•°•°•°•°•°•°•°•°•°•°
+
+##Folders
+=>/gemlog Gemlog
+=>/instructions Instructions
+
+##Pages
+=>computing.gmi Computer
+=>plants.gmi Plants
+=>bookmarks.gmi Bookmarks
+
+°•°•°•°•°•°•°•°•°•°•°•°•°
+
+⭕ Magyarok a Geminin Gemring
+=> gemini://botond.online/cgi/gemring/after?megymagy.flounder.online/ 👉 Következő
+=> gemini://botond.online/cgi/gemring/before?megymagy.flounder.online/ 👈 Előző
+=> gemini://botond.online/cgi/gemring 👆 Összes oldal

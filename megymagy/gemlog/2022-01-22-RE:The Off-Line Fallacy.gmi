@@ -1,0 +1,19 @@
+#RE: The Off-Line Fallacy
+
+=>gemini://gemini.ctrl-c.club/~stack/gemlog/2022-01-20.offline.gmi Original post
+
+Although I do not agree with this post by StackSmith (and it might have been a tad harsh IMO), the post does raise an important question, and that is the question of terminology.
+
+These are some interesting posts I've read about "offline" browsing:
+=>gemini://rawtext.club/~ploum/2021-12-17-offline-gemini.gmi Ploum's AV98 fork
+=>gemini://gemini.ctrl-c.club/~lettuce/offline-ereading.gmi Lettuce's html to epub script
+=>gemini://tilde.team/~aprilnightk/gemlog/2022/01/09-offline-sweet-offline.gmi Aprilnightk's online mode/offline mode
+=>gemini://tobykurien.com/articles/2022-01-11-distraction-free-computing.gmi Toby Kurien's experiments with distraction-free computing
+
+They all seem to be using the term "offline" to describe their experiments, when, as StackSmith also points out, they are not truly offline, since most of these workflows involve connecting to the internet to download files which are to be browsed later. So in these cases, online means "always-online" and offline means "periodically online for a short period".
+
+The problem, of course, is that this terminology can be misleading. But still, I think that using "offline" instead of something like "semi-offline" or "quasi-online" conveys very well the radical departure these endeavours take from the way being online is today. Online, or always-online implies availability every second, the user's availability as well as constant access to the web. Is this bad? It is not for me to say, but I am convinced that it is useful that we are able to try different models of being offline.
+
+I think an attempt at a more sustainable, or more durable (collapse-proof) way of being online is also implied in the "offline" approach. Being able to browse the internet while only having very limited access can come in handy not just in a future (or present) post-apocaliptic scenario, but also  in places which don't have a reliable connection. I also mean sustainable in a permacultural living-together way, so the careful allocation and use of resources, but also meaning a question of agency, since being always-online can feel in many cases like a chore, something that requires a lot more from the user than it should.
+
+This is my attempt to mention some questions which should be further developed and thought about when discussing these type of "offline" approaches. I think that these are attempts fulfill exactly the requirement that StackSmith poses: they are online, but on their own terms. They are different, perhaps new ways of being online, and even if they turn out not to be useful (which I doubt), at least, because they are different, they shed some light on what being always-online is actually like. Offline, in their case, is rather a proclamation of not being always-online rather than meaning being off the grid at all times.

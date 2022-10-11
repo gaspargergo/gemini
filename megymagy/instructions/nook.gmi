@@ -1,0 +1,26 @@
+# Nook
+
+I'm using a Nook Simple Touch ebook reader to read most things I find interesting on the web/gemini.
+
+## Battery reset
+
+After a while, the Nook reader needs a calibration for the battery, which can be done like so:
+1. remove the plastic from the power button
+2. use a star shaped screwdriver to remove the screw there
+3. pull the back casing downwards to remove it
+4. disconnect battery
+5. hold power button for ~10 seconds
+6. reconnect battery and put back on again
+
+## Bypassing registration
+
+Since I can't seem to update the device (and the old OS can't connect to the internet anymore because of a TLS issue), a reset can render it unusable. Here is what to do to bypass registration:
+
+1. Turn on your NOOK.
+2. At the welcome screen hold down the button on the top right (page turn button) and at the same time slide your finger across the top of the screen from left to right.
+3. You should now see a Factory link on the top left of the screen, press this link.
+4. On the factory screen hold down the same button (top right) and at the same time tap the bottom right of the screen.
+5. You should now see a Skip Oobe link on the bottom right, press this link.
+
+from:
+=>https://forum.xda-developers.com/t/q-battery-drain-on-unregistered-nook-simple-touch.1475070/ xda link

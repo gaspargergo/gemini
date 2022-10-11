@@ -1,0 +1,23 @@
+Pop OS sometimes manages to mess up somehow, leaving me unable to update.
+This is the usual error:
+
+​```
+dpkg: dependency problems prevent processing triggers for libglib2.0-0:i386:
+ libglib2.0-0:i386 depends on libpcre3; however:
+  Package libpcre3:i386 is not configured yet.
+​```
+
+Running these two commands usually fixes that:
+
+​```
+sudo dpkg --configure -a
+sudo apt --fix-broken install
+​```
+
+This is what the first command does, according to the dpkg man page:
+​```
+--configure package...|-a|--pending
+           Configure a package which has been unpacked but not yet
+           configured.  If -a or --pending is given instead of package, all
+           unpacked but unconfigured packages are configured.
+​```

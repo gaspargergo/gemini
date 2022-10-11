@@ -1,0 +1,52 @@
+#Computing
+
+I try to use cli programs for the most part, as they don't burden my laptop that much, and are much more snappy that their gui counterparts. They use less energy as well.
+
+My main computer is a Thinkpad X121e.
+If you have any suggestions, please let me know on Mastodon, you can find me as megymagy@mastodon.green.
+
+##CLI programs
+
+###Kakoune
+My text editor of choice. Beginner friendly, with a clippy-like helper which explains the commands. I like it more than vim.
+
+###Aerc
+My e-mail client. Extremely easy to set up, and works wery well with both personal and work accounts. I just wish I could cache the e-mails. Maybe there's an option for that I've yet to find, who knows.
+
+###Elinks
+I tried Lynx and w3m, which are other terminal browsers, but I like this the most. The interface is very familiar to anyone coming from a GUI browser. You can even control it with a mouse!
+
+###Tootstream
+The only AUR program I use regularly. It's a Mastodon client. Looks great, works as you'd expect it. Some features are missing, but is very usable.
+
+###Cmus
+A great terminal-based music player. Fast and has many features.
+
+###Pass
+A simple password manager. I keep my most used passwords in here.
+
+
+##GUI programs
+
+###Qutebrowser
+A light browser wich is highly configurable and fully keyboard-controllable. I use this if I need JS or if something doesn't agree with elinks.
+
+###Mpv
+A video player, which I use coupled with youtube-dl to stream youtube videos. 
+
+###Feh
+Image viewer. I use this for my background, as well as for opening images from Elinks or Tootstream.
+
+###Qpdfview
+My pdf viewer, quick, simple. It does the job well. I would want to try out a framebuffer pdf viewer at some point, but I had no luck with those yet, every time I tried them out, I ran into a black screen. 
+
+###Inkscape
+One of the most heavy programs on my computer, I use this for vector editing. It has many features but is not the fastest, especially when dealing with many objects. I want to try out the vector editor made by 100 rabbits sometimes, although I'm not sure if it could replace Inkscape.
+
+###Libreoffice Writer
+Mostly using this for uni stuff, reading and writing documents. 
+
+###Uxn
+I've yet to find very integral use for this, but I'm trying. Now, I mostly use it to play Donsol, but I want to learn how to program it, and then I might be able to make replacements for some of the more heavier stuff here.
+
+

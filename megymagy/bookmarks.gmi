@@ -1,0 +1,27 @@
+#Bookmarks
+
+Sites and people that I like
+
+##gemini
+
+###People
+=>gemini://alex.flounder.online/index.gmi Alex Flounder
+=>gemini://tilde.team/~aprilnightk/ Keith Aprilnight
+=>gemini://compudanzas.net/home.gmi Compudanzas
+=>gemini://hexdsl.co.uk/ Hex DSL
+=>gemini://gemini.ctrl-c.club/~lettuce/ Lettuce
+=>gemini://lyk.so Lyk
+=>gemini://rawtext.club/~ploum/ Ploum
+=>gemini://gemini.sensorstation.co Sensorstation
+=>gemini://gemini.circumlunar.space/~solderpunk Solderpunk
+=>gemini://tobykurien.com/ Toby Kurien
+=>gemini://tilde.pink/~bencollver/ Ben Collver
+
+###Exploration
+=>gemini://warmedal.se/~antenna/ Antenna
+=>gemini://gemini.thegonz.net/ Collaborative Directory of Geminispace
+=>gemini://gemini.circumlunar.space/capcom/ CAPCOM aggregator
+=>gemini://gemini.circumlunar.space/ Gemini project page
+=>gemini://medusae.space/ Medusae.space directory
+=>gemini://geminispace.info/ Search engine
+=>gemini://gemini.cyberbot.space/smolzine/ Smolzine
