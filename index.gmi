@@ -28,6 +28,7 @@ mastodon: megymagy@mastodon.green
 =>computing.gmi Computer
 =>plants.gmi Plants
 =>bookmarks.gmi Bookmarks
+=>test.gmi Testing out some stuff
 
 °•°•°•°•°•°•°•°•°•°•°•°•°
 
