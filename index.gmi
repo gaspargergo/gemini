@@ -1,4 +1,4 @@
-#Megymagy's site
+# Megymagy's site
 
 ```an ASCII-art house
      _      §
@@ -13,22 +13,22 @@
   |__[]_|
 ```
 
-A small place where I collect things.
+A small place where I collect things. Currently under construction as I am moving to Ctrl-c club.
 
-##Contact
+## Contact
 mastodon: megymagy@mastodon.green
 
 °•°•°•°•°•°•°•°•°•°•°•°•°
 
-##Folders
+## Folders
 =>/gemlog Gemlog
 =>/instructions Instructions
 
-##Pages
+## Pages
 =>computing.gmi Computer
 =>plants.gmi Plants
 =>bookmarks.gmi Bookmarks
-=>test.gmi Testing out some stuff
+=>test.gmi Testing 
 
 °•°•°•°•°•°•°•°•°•°•°•°•°
 
